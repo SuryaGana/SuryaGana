@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivajirao&show_icons=true&locale=en" alt="sivajirao" /></p>
 
-<p><img align="center" src="" alt="sivajirao" /></p>
+<p><img align="center" src="" alt="" /></p>
 
